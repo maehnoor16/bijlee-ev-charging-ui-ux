@@ -1,6 +1,3 @@
-# bijlee-ev-charging-ui-ux
-UI/UX case study and prototype for an on-demand EV charging mobile app
-
 # Bijlee – On-Demand EV Charging Mobile App (UI/UX Case Study)
 
 ## Overview
